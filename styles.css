@@ -1,0 +1,94 @@
+body{
+  margin-top: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1{
+  width: 40%;
+  margin: 0 auto;
+font-family: 'Great Vibes', cursive;
+font-size: 80px;
+color: #AF7AC5 ;
+
+}
+h2{
+  color: #AF7AC5 ;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+h3{
+  color: #AF7AC5 ;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+.name{
+  font-family: 'Montserrat', sans-serif;
+  color: #AF7AC5 ;
+}
+p{
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.top{
+  background-color:#b2ebf2;
+  padding: 60px;
+  position: relative;
+}
+.middle-container{
+
+    background-color:#b2ebf2;
+}
+.bottom-container{
+    background-color:#b2ebf2;
+}
+.bottom-cloud{
+  position:absolute;
+  top: 190px;
+  left: 300px;
+
+}
+.mid{
+    background-color:#b2ebf2;
+    margin: 0;
+}
+.contact-me{
+    background-color:#b2ebf2;
+}
+.top-cloud{
+  position: relative;
+  top: 10px;
+  left: 300px;
+}
+.pht{
+  height:150px;
+}
+
+hr{
+   border-style: solid;
+  width: 10%;
+  color: #515A5A ;
+}
+.android{
+  float: left;
+  margin-right: 30px;
+   height: 100px;
+}
+.web{
+   float: right;
+  height: 100px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.testbutton{
+  background-color:#b2ebf2; 
+}
